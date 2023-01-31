@@ -45,7 +45,7 @@ notas:
 6 - criação do branch **desenvolvimento**, commit, push no branch, merge (branch+master) e push no master
 
 *git checkout -b "desenvolvimento"*  
-*code git_paper.md* **comentário: aqui vai abrir o git_paper.md no vscode, editar o arquivo** 
+*code git_paper.md* **comentário: aqui vai abrir o git_paper.md no vscode, editar o arquivo**  
 *git add git_paper.md*  
 *git commit -m "texto do desenvolvimento adicionado"*  
 *git push -u origin desenvolvimento*  
@@ -58,7 +58,7 @@ notas:
 7 - criação do branch **conclusão**, commit, push no branch, merge (branch+master) e push no master  
 
 *git checkout -b "conclusão"*  
-*code git_paper.md* **comentário: aqui vai abrir o git_paper.md no vscode, editar o arquivo**  
+*code git_paper.md* **comentário: aqui vai abrir o git_paper.md no vscode, editar o arquivo**    
 *git add git_paper.md*  
 *git commit -m "texto do conclusão adicionado"*  
 *git push -u origin conclusão*  
