@@ -4,7 +4,7 @@
 
 ## **Como foi feito:**
 
-notas: 
+notas:  
 **Foi usado o VSCODE para editar os textos**  
 **Foi usado o terminal do VSCODE**  
 **Os comandos devem rodar dentro da pasta**  
