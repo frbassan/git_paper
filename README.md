@@ -5,9 +5,9 @@
 ## **Como foi feito:**
 
 notas: 
-**Foi usado o VSCODE para editar os textos**
-**Foi usado o terminal do VSCODE**
-**Os comandos devem rodar dentro da pasta**
+**Foi usado o VSCODE para editar os textos**  
+**Foi usado o terminal do VSCODE**  
+**Os comandos devem rodar dentro da pasta**  
 
 1 - Criar uma pasta  
 
@@ -18,6 +18,7 @@ notas:
 3 - Criar um repositório no github 
 
 
+
 4 - Inicialização, primeiro commit e link github:
 
 *git init*  
@@ -25,6 +26,7 @@ notas:
 *git commit -m "commit inicial"*  
 *git remote add origin https://github.com/frbassan/git_paper.git*  
 *git push -u origin master*  
+
 
 
 5 - Criação do branch **introdução**, commit, push no branch, merge (branch+master) e push no master
@@ -39,6 +41,7 @@ notas:
 *git push*  
 
 
+
 6 - criação do branch **desenvolvimento**, commit, push no branch, merge (branch+master) e push no master
 
 *git checkout -b "desenvolvimento"*  
@@ -49,6 +52,7 @@ notas:
 *git checkout "master"*  
 *git merge "desenvolvimento"*  
 *git push*  
+
 
 
 7 - criação do branch **conclusão**, commit, push no branch, merge (branch+master) e push no master  
